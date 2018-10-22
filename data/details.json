@@ -1,0 +1,26 @@
+{
+  "Surendra" : {
+    "name": "Surendra",
+    "age" : 25,
+    "sex" : "Male"
+
+  },
+
+  "David" : {
+    "name": "David",
+    "age" : 25,
+    "sex" : "Male"
+  },
+
+  "Lucy" : {
+    "name": "Lucy",
+    "age" : 25,
+    "sex" : "Female"
+  },
+
+  "Anna" : {
+    "name": "Anna",
+    "age" : 25,
+    "sex" : "Female"
+  }
+}
